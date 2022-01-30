@@ -1,0 +1,10 @@
+# my approach 
+1) collect forex price data every minute and push save it to Database [98% complete]
+2) Develop model to predict future prices, compute variation between real and predicted prices, also a script to set bounds (python/R)[50% complete], 
+3) Develop an expert advisor to receive predicted prices and also manage orders.[0% done]
+
+# In future
+1) Collect image data, datetime, Order type,price,bounds results(Profit/loss). from users
+2) analyze it with deep learning to build a model which can validate the predictions made before orders are placed
+3) Collect frequency of movements to be able to detect and predict sharp movements ahead 
+
